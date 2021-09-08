@@ -94,7 +94,7 @@ export default{
   box-shadow: 0 1px 3px rgb(164 164 164 / 12%), 0 1px 2px rgb(163 163 163 / 22%);
   border-radius: 7px;
   overflow: hidden;
-  height: 470px;
+  height: 500px;
   padding: 15px;
   margin-bottom: 35px;
 }
